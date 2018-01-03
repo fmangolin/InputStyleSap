@@ -1,5 +1,5 @@
 # InputStyleSap
 
-Input Text Html com estilo utilizado no ERP SAP.
+Input Text Html with style used in SAP ERP.
 
-Utilizado bootstrap 4
+Used bootstrap 4
