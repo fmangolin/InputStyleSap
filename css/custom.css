@@ -1,0 +1,26 @@
+.input-group-text{
+
+background-color: white;
+border-radius: 0;
+border-top: 0;
+border-left: 0;
+border-right: 0;
+text-align: left;
+padding-left: 0;
+
+}
+
+.form-control{
+	border-radius: 0;
+	height: 30px;
+	font-family: Chevin Cyrillic;
+}
+
+span{width: 100px; height: 30px; font-family: Chevin Cyrillic;}
+
+@font-face {
+    font-family: Chevin Cyrillic;
+    font-style:  normal;
+    font-weight: normal;
+    src: url("Chevin-Cyrillic-Light_10488.ttf") format("truetype");
+  }
